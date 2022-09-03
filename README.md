@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**daniel-agbonifo/daniel-agbonifo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on responsive web designs
 - 🌱 I’m currently learning software engineering
 - 👯 I’m looking to collaborate on ...
@@ -13,6 +7,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: danielagbonifo2020@gmail.com
 - 😄 Pronouns: Him?He
 - ⚡ Fun fact: ...
--->
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-agbonifo)](https://github.com/anuraghazra/github-readme-stats)
