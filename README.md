@@ -9,6 +9,6 @@
 - ⚡ Fun fact: jovial and open to connections
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-agbonifo)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-agbonifo&show_icons=true)
