@@ -1,6 +1,7 @@
 # Hi there 👋
 
 ## I'm Daniel Agbonifo
+### I'm a front end web developer, fascinated with open source projects, Excited about technological advancements.
 
 - 🔭 I’m currently working on responsive web designs
 - 🌱 I’m currently learning software engineering
