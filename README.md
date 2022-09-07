@@ -18,4 +18,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-agbonifo&show_icons=true)
 
 
-https://camo.githubusercontent.com/daniel-agbonifo
+
