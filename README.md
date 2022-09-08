@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on responsive web designs
 - 🌱 I’m currently learning software engineering
-- 👯 I’m looking to collaborate on building responsive websites
- - 🤔 I’m looking for help with any project you need my assistance on
+- 👯 I’m looking to collaborate on projects in my niche
+ - 🤔 I’m looking for help with any project i can render my proficiency
 - 💬 Ask me about myself, lol
 - 📫 How to reach me: danielagbonifo2020@gmail.com
 - 😄 Pronouns: Him/He
