@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Agbonifo</h1>
 <h3 align="center">a front end web developer, fascinated with open source projects and excited about technological advancements.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-agbonifo&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-agbonifo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniel-agbonifo" alt="daniel-agbonifo" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ayomideagbonifo" target="blank"><img src="https://img.shields.io/twitter/follow/ayomideagbonifo?logo=twitter&style=for-the-badge" alt="ayomideagbonifo" /></a> </p>
 
 - 🔭 I’m currently working on **on building interactive and responsive websites**
 
@@ -20,6 +15,8 @@
 - 📫 How to reach me **danielagbonifo2020@gmail.com**
 
 - ⚡ Fun fact **I think I'm smart**
+
+<p align="left"> <a href="https://twitter.com/ayomideagbonifo" target="blank"><img src="https://img.shields.io/twitter/follow/ayomideagbonifo?logo=twitter&style=for-the-badge" alt="ayomideagbonifo" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,3 +33,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-agbonifo&show_icons=true&locale=en" alt="daniel-agbonifo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-agbonifo&" alt="daniel-agbonifo" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-agbonifo&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-agbonifo" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniel-agbonifo" alt="daniel-agbonifo" /></a> </p>
+
+
