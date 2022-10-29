@@ -51,12 +51,6 @@
 
 #### Thanks for visiting :heart:
 
-able border="0" cellspacing="10" cellpadding="10">
-<td border="0">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madflows&show_icons=true&locale=en" alt="madflows" /></p>
-</td>
-<td border="0">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madflows&show_icons=true&locale=en&layout=compact" alt="madflows" /></p>
 
 <p 
 
