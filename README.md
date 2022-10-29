@@ -4,17 +4,6 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Daniel+Agbonifo;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Web+Developer;Always+learning+new+things+;Software+Developer;Machine+learning+enthusiast+;Web3+enthusiast;Augument+Plus+community+member)](https://git.io/typing-svg)
 
-                                                                                                                                                                                                                     
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=daniel-agbonifo&hide_border=true&theme=redical)
-
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=daniel-agbonifo&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-agbonifo&theme=radical&layout=compact) |
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-agbonifo"></img>
-
 
 - 🔭 I’m currently working on **on building interactive and responsive websites**
 
@@ -29,6 +18,19 @@
 - 📫 How to reach me **danielagbonifo2020@gmail.com**
 
 - ⚡ Fun fact **I think I'm smart**
+                                                                                                                                                                                                                     
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=daniel-agbonifo&hide_border=true&theme=redical)
+
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=daniel-agbonifo&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-agbonifo&theme=radical&layout=compact) |
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-agbonifo"></img>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniel-agbonifo" alt="daniel-agbonifo" /></a> </p>
+
+
 
 <p align="left"> <a href="https://twitter.com/ayomideagbonifo" target="blank"><img src="https://img.shields.io/twitter/follow/ayomideagbonifo?logo=twitter&style=for-the-badge" alt="ayomideagbonifo" /></a> </p>
 
@@ -52,7 +54,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-agbonifo&" alt="daniel-agbonifo" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-agbonifo&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-agbonifo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniel-agbonifo" alt="daniel-agbonifo" /></a> </p>
+
 
 
 
