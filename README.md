@@ -2,7 +2,7 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Daniel+Agbonifo;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Web+3+enthusiast;Tech Rookies+community+member;Augument Plus member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Daniel+Agbonifo;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Web+3+enthusiast;Tech Rookies+community+member;Augument+Plus+member)](https://git.io/typing-svg)
 
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -50,17 +50,6 @@
 
 #### Thanks for visiting :heart:
 
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/daniel-agbonifo/count.svg">  
-
-counting of visitors to this page in this section started from April  2022
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-### Profile Views
-counting of visitors to this page in this section started from April, 2022
-
-![](https://count.getloli.com/get/@daniel-agbonifo.github.readme)
-</br>
-
+<p 
 
 ![](assets/Bottom_down.svg)
