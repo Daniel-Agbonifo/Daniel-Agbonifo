@@ -5,11 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Daniel+Agbonifo;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Web+Developer;Always+learning+new+things+;Software+Developer;Machine+learning+enthusiast+;Web3+enthusiast;Augument+Plus+community+member)](https://git.io/typing-svg)
 
 
-- 🔭 I’m currently working on **on building interactive and responsive websites**
+<h2 align="center">- 🔭 I’m currently working on **on building interactive and responsive websites**
 
-- 🌱 I’m currently learning **C**
+  - 🌱 I’m currently learning **C**
 
-- 👯 I’m looking to collaborate on **projects in my niche**
+ - 👯 I’m looking to collaborate on **projects in my niche**
 
 - 🤝 I’m looking for help with **any project i can render my proficiency**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **danielagbonifo2020@gmail.com**
 
-- ⚡ Fun fact **I think I'm smart**
+- ⚡ Fun fact **I think I'm smart**</h2>
                                                                                                                                                                                                                      
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
